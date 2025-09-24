@@ -1,0 +1,4 @@
+link : https://www.kaggle.com/datasets/moazeldsokyx/dogs-vs-cats
+kaggle CLI : 
+#!/bin/bash
+kaggle datasets download moazeldsokyx/dogs-vs-cats
